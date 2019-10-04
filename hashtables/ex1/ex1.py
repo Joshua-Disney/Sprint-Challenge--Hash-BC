@@ -21,3 +21,5 @@ def print_answer(answer):
         print(str(answer[0] + " " + answer[1]))
     else:
         print("None")
+
+# Comment for initialization
